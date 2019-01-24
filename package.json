@@ -1,25 +1,17 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
-  },
+  "name": "first",
+  "version": "1.0.0",
+  "description": "Test mi primer react yo sola",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cnuevo"
+  ],
+  "author": "eli\u0016kal",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^2.1.3"
+  }
 }
